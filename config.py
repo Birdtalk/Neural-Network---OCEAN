@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Stephan Schuller 22146172
+CS 457 (4 Credit) & CS 495 (1 Credit)
+Supervised by Dr. Razvan Andonie
+"""
+
+
+API_KEY = "p3jUVGMskvUcFnE7NSFlaEW9A"
+API_SECRET_KEY = "Y0sqIEm6RGSNkyfiTwPawXmv8Z6xqo0QkOomACjw9l3094DUlh"
+
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAALQsnwEAAAAA%2FpKZr6E%2FiUuLcoYxEEhj0pGbja4%3DvksShP3BDkZ9U9EFyp5mQO513dovxDcIKUNWSGW8jduuFTDDbA"
+
+ACCESS_TOKEN = "1662229222189072385-reMlnS1O8Jfy1OcBoJmfVy49SLJbYf0"
+ACCESS_TOKEN_SECRET = "Vmx2pNg28PHTuJU3Nwvdnz6HRmRvBbyGQZtorg3KIONjw"
