@@ -68,7 +68,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
   <article>
     <h1>Key Features</h1>
 
-    <p>
+
       
 - [x] A trained Neural Network model implemented in software
 - [x] Utilize real text using the Twitter API to categorize real social media users.
@@ -76,7 +76,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
 
 - [x] Accurately assess natural language 
 
-    </p>
+
   </article>
   <br/>
 </section>
