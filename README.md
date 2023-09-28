@@ -18,9 +18,7 @@
          <a href="goals ">Goals</a> •
             <a href="#key-features">Key Features</a> •
             <a href="#how-to-use">How it Works</a> •
-        
-      </p>
-      </hr>
+
 </nav>
 
 <section id="inspiration">
