@@ -20,7 +20,7 @@
             <a href="#how-to-use">How it Works</a> •
         
       </p>
-      <hr>
+      </hr>
 </nav>
 
 <section id="inspiration">
@@ -28,11 +28,11 @@
   <h1>Research Inspiration</h1>
   <p>
     This research was inspired by natural language processing in machine learning, which allows a computer model to derive meaning from words. Fascinating! Although there has already been absolute mountains of reserach done in this area my research would focus on using statistically consequential words to arrive at scores for the standard OCEAN model ( Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism ). Much of my work is inspired by 3 sources: 
-    <ul>
-      <li>1. Andrew Dunn, "Sentiment Analysis of Tweets", Central Washington University (Ellensburg, Washington, United States) </li>
-      <li>2. Hima Vijay & Neenu Sebastian, "Personality Prediction using Machine Learning", SCMS School of Engineering & Technology -  (Vidya Nagar, Karukutty, Ernakulam)</li>
-      <li>3. Tal Yarkoni, "Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers"</li>
-    </ul>
+    <ol>
+      <li>Andrew Dunn, "Sentiment Analysis of Tweets", Central Washington University (Ellensburg, Washington, United States) </li>
+      <li>Hima Vijay & Neenu Sebastian, "Personality Prediction using Machine Learning", SCMS School of Engineering & Technology -  (Vidya Nagar, Karukutty, Ernakulam)</li>
+      <li>Tal Yarkoni, "Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers"</li>
+    </ol>
 
 The research of Andrew Dunn was referenced for specific methods for collecting, cleaning, and using data. The research of Hima Vijay and Neenu Sebastian was instrumental for constructing the neural network model. The research of Tal Yarkoni was used for the statistical data surrounding the weighting of words in reference to OCEAN model score assignment.
   </p>
@@ -43,7 +43,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
   <h1>Goals</h1>
   <p>
     
-  <ul>
+  <ol>
     <li>
      1. Create a neural Network model that is capable of intaking a small number of words (150 words) and create an OCEAN profile based on those words.
     </li>
@@ -59,7 +59,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
     <li>
       5. A demonstration video to tour some code and show the efficacy of the model.
     </li>
-  </ul>
+  </ol>
     
   </p>
   <br/>
@@ -85,7 +85,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
 
 <section id="how-to-use">
   <article>
-    <h1>🛠️ How it Works</h1>
+    <h1>How it Works</h1>
     <p>Use the categorization power of my premade machine learning model to input text and get an OCEAN score for the user who created that text. The score will be up to 70% and the more text that is input the better the accuracy becomes!</p>
 
 
