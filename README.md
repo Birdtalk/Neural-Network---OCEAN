@@ -15,7 +15,7 @@
       <hr>
       <p align="left">
 	    <a href="inspiration">Inspiration</a> •
-         <a href="goals ">Goals</a> •
+         <a href="goals">Goals</a> •
             <a href="#key-features">Key Features</a> •
             <a href="#how-to-use">How it Works</a> •
 
