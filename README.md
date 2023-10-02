@@ -31,6 +31,9 @@
       <li>Hima Vijay & Neenu Sebastian, "Personality Prediction using Machine Learning", SCMS School of Engineering & Technology -  (Vidya Nagar, Karukutty, Ernakulam)</li>
       <li>Tal Yarkoni, "Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers"</li>
     </ol>
+      <div align="center">
+    <img src="talyankoni.png" width="400px"</img> 
+</div>
 
 The research of Andrew Dunn was referenced for specific methods for collecting, cleaning, and using data. The research of Hima Vijay and Neenu Sebastian was instrumental for constructing the neural network model. The research of Tal Yarkoni was used for the statistical data surrounding the weighting of words in reference to OCEAN model score assignment.
   </p>
@@ -44,9 +47,15 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
   <ol>
     <li>
      1. Create a neural Network model that is capable of intaking a small number of words (150 words) and create an OCEAN profile based on those words.
+	      <div align="center">
+    <img src="someresults.png" width="400px"</img> 
+</div>
     </li>
     <li>
       2. Focus on accuracy and achieve interpolation approximating OCEAN score distribution measured naturally.
+	      <div align="center">
+    <img src="compbars.png" width="400px"</img> 
+</div>
     </li>
     <li>
       3. Write a appropriate report discussing my research, methods, findings, and reflections.
@@ -58,6 +67,7 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
       5. A demonstration video to tour some code and show the efficacy of the model.
     </li>
   </ol>
+
     
   </p>
   <br/>
