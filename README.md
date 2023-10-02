@@ -15,14 +15,16 @@
          <a href="#goals">Goals</a> •
             <a href="#key-features">Key Features</a> •
             <a href="#how-to-use">How it Works</a> 
+      </p>
 
 </nav>
 <section id="demonstration">
-	<h1>Demonstration</h1>
+    <h1>Demonstration</h1>
 	
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vzJW4M5YSiI" target="_blank">
-<img src="http://img.youtube.com/vi/vzJW4M5YSiI/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="http://img.youtube.com/vi/vzJW4M5YSiI/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
+
 </section>
 <section id="inspiration">
 
