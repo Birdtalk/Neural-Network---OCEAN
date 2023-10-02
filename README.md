@@ -46,13 +46,13 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
     
   <ol>
     <li>
-     1. Create a neural Network model that is capable of intaking a small number of words (150 words) and create an OCEAN profile based on those words.
+     1. Create a neural Network model that is capable of intaking a small number of words (150 words) and create an OCEAN profile based on those words. Fine tuning the "Bag-of-Words" is vital in this natural language method. The accuracy of all results is based on the weight given to the words contained in this dictionary.
 	      <div align="center">
     <img src="someresults.png" width="400px"</img> 
 </div>
     </li>
     <li>
-      2. Focus on accuracy and achieve interpolation approximating OCEAN score distribution measured naturally.
+      2. Focus on accuracy and achieve interpolation approximating OCEAN score distribution measured naturally. My results were tuned to mimic the distribution of broader OCEAN scores in the population.
 	      <div align="center">
     <img src="compbars.png" width="400px"</img> 
 </div>
