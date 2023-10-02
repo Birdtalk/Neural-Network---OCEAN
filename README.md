@@ -31,8 +31,10 @@
       <li>Hima Vijay & Neenu Sebastian, "Personality Prediction using Machine Learning", SCMS School of Engineering & Technology -  (Vidya Nagar, Karukutty, Ernakulam)</li>
       <li>Tal Yarkoni, "Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers"</li>
     </ol>
+    A great deal of the ligitimacy that this method holds is due to the statistical work performed by Tal Yarkoni performed in 2010.
       <div align="center">
     <img src="talyankoni.png" width="400px"</img> 
+	
 </div>
 
 The research of Andrew Dunn was referenced for specific methods for collecting, cleaning, and using data. The research of Hima Vijay and Neenu Sebastian was instrumental for constructing the neural network model. The research of Tal Yarkoni was used for the statistical data surrounding the weighting of words in reference to OCEAN model score assignment.
