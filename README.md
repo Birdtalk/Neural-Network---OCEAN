@@ -1,14 +1,11 @@
 <header>
   <h1  align="left">Machine Learning Research, OCEAN (Myers-Briggs) user categorization with Neural Network Models</h1>
- 
-
-
-
 </p>
   <p>
     This research was performed under the supervision of Dr. Razvan Andonie at Central Washington University. The goal being create a neural network model which had some application to categorize users of social media inside of a standard OCEAN model especially in mind of Myers-Briggs categories. 
   </p>
 </header>
+
 
 <!-- table of contents-->
 <nav>
@@ -97,6 +94,8 @@ The research of Andrew Dunn was referenced for specific methods for collecting, 
   <article>
     <h1>How it Works</h1>
     <p>Use the categorization power of my premade machine learning model to input text and get an OCEAN score for the user who created that text. The score will be up to 70% and the more text that is input the better the accuracy becomes!</p>
+
+ 
 
 
   </article>
