@@ -20,7 +20,8 @@
 </nav>
 <section id="demonstration">
     <h1>Demonstration</h1>
-	
+<p>Pleaase Click the video link below to watch a brief demonstration of the project.</p>
+	<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vzJW4M5YSiI" target="_blank">
  <img src="http://img.youtube.com/vi/vzJW4M5YSiI/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
